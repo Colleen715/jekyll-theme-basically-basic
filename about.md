@@ -1,7 +1,6 @@
 ---
 title: "关于我"
 layout: about
-image: assets/images/logo_head portrait.png
 ---
 
 ## 基本信息
