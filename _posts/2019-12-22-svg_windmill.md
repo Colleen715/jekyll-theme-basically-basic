@@ -1,4 +1,5 @@
 ---
+layout: page
 title: 看！是一个旋转的风车！
 categories: 
   - svg制作
