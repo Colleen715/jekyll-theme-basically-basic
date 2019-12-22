@@ -151,10 +151,6 @@ categories:
 - ### 让Canvas给你们放个烟花吧！  
 这个在 Canvas烟花动画中使用了DOMContentLoaded 触发事件函数。  
 实现源码如下:  
-
-  
-    <!DOCTYPE html>
-    <html>  
 <section>  
     <head>
     <meta charset="UTF-8">
