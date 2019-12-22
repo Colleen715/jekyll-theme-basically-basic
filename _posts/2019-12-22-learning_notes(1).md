@@ -19,10 +19,7 @@ categories:
 从右至左，就是一个人的行走的所有动作，抬腿，迈步,脚落下，另一只脚迈步，然后循环如此。
 2. 动画是5个动作的合成，原本应有5张图片，现在我们将5张图片放在一张图片里，需要时截取图片的部分，可以降低时间成本。因为在实际的web应用中，页面上可能有上百张甚至好几百张图片，如果每张图片都是单独的，就需要建立几百个http连接，耗费的时间成本很大，所以我们可以把多张图片合成到一张大的图片中，然后通过CSS中的背景定位等技术，把背景定位到实际的图片位置，就可以得到所需图片了（canvas也可以利用这种思想）。这样可以节省大量的连接建立时间，它是前端优化的一部分。  
 3. 实现源码如下:
-
-  
-    <!DOCTYPE html>
-    <html>
+ <section>
     <head>
     <meta charset="utf-8" />  
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -158,6 +155,7 @@ categories:
   
     <!DOCTYPE html>
     <html>  
+<section>  
     <head>
     <meta charset="UTF-8">
     <title>烟花</title>
@@ -302,8 +300,7 @@ categories:
         }
        </script>
        </body>
-     </html>
-
+     </section>
 
 
 
