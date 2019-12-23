@@ -1,6 +1,8 @@
 ---
-title: 快看！飞机在动！
-categories: 
+title: "快看！飞机在动！"
+layout: page
+excerpt_separator: "<!--more-->"
+categories:
   - svg制作
 tags:
   - svg

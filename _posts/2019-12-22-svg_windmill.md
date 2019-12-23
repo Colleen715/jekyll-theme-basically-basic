@@ -1,6 +1,7 @@
 ---
+title: "看！是一个旋转的风车！"
 layout: page
-title: 看！是一个旋转的风车！
+excerpt_separator: "<!--more-->"
 categories: 
   - svg制作
 tags:

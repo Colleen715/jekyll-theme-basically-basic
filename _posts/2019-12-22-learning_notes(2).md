@@ -1,14 +1,15 @@
 ---
+title: "如何用CSS，JavaScript实现手风琴导航菜单？"
 layout: page
-title: 如何用CSS，JavaScript实现手风琴导航菜单？
+excerpt_separator: "<!--more-->"
 categories:
-     - 学习笔记
+  - 学习笔记
 ---  
 
-
+## ==手风琴导航栏菜单==
+<section>
 <!DOCTYPE html>
 <html>
- 
 <head>
     <title>Side Navigator Demo</title>
     <script src="https://cdn.staticfile.org/jquery/1.10.2/jquery.min.js">
@@ -195,5 +196,9 @@ categories:
         </ul>
     </div>
 </body>
-
 </html>
+</section>
+
+
+## 参考资料
+[CSS，JavaScript实现手风琴导航菜单](https://blog.csdn.net/weixin_33913377/article/details/91925689)

@@ -1,8 +1,9 @@
 ---
+title: "如何制作canvas实现动画?"
 layout: page
-title: 如何制作canvas实现动画？
+excerpt_separator: "<!--more-->"
 categories:
-     - 学习笔记
+  - 学习笔记
 ---
 
 ## Canvas是什么？  
