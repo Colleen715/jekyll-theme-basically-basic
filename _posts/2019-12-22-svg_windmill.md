@@ -90,7 +90,6 @@ tags:
 	border-bottom-right-radius:40px;	
 }
 </style>
-</head>
 <body>
 <div id="windmill">
 	<div class="top ala"></div><div class="top topIn alaIn"></div>
