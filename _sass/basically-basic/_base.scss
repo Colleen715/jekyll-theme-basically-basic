@@ -7,10 +7,14 @@ html {
 }
 
 body {
-  background: $background-color;
+  height: 100%;
+  width: 100%;
+  background: url(\assets\images\background_photo.jpg) no-repeat;
+  background-size: cover;
+  position: absolute;
+  overflow: hidden;
   color: $text-color;
-  
-}
+  }
 
 blockquote,
 q {
