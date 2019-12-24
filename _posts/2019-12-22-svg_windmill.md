@@ -8,7 +8,7 @@ tags:
   - svg
 ---  
 
-
+<!--more-->
 <section>  
 <style type="text/css">
 #windmill{
@@ -99,3 +99,4 @@ tags:
 </div>
 </body>
 </section>
+
