@@ -23,9 +23,9 @@ categories:
  
  那么我们如何pick到它呢？？？  
  实现代码如下：  
-<pre>
-<xmp>
+```
 
+<xmp>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head> 
@@ -54,8 +54,8 @@ categories:
 </body>
 </html>
 </xmp>
-</pre>
 
+```
 ###  设置方法 
 1. 虚拟空间设置方法    
 现在的idc提供商基本都提供404设置的功能，直接上传文件设置即可。
