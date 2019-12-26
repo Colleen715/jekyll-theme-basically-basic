@@ -40,11 +40,12 @@
     }
 
     /* line hover effect */
-    a {
+   a {
       position: relative;
-      color: $base-color;
-
-      &::before {
+      color: white;
+      text-shadow: 4px 4px 4px #FFFFFF;
+      
+	  &::before {
         display: block;
         position: absolute;
         top: 50%;
