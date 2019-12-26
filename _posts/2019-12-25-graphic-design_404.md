@@ -4,6 +4,8 @@ layout: page
 excerpt_separator: "<!--more-->"
 categories:
   - 平面设计
+  tags:
+  - 平面设计
 ---
 
 起因：常见404页面大致相同，想寻找不一样的404页面。于是，我上网查找了资料。

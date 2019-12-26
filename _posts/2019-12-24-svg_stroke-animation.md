@@ -8,8 +8,9 @@ tags:
   - svg
 ---    
 
-Look！This is stroke animation!  
 Don't you know what this is? Click on it!
+Look！This is stroke animation!  
+
 <!--more-->
 <section>
 <style>
