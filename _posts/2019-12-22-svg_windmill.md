@@ -8,6 +8,8 @@ tags:
   - svg
 ---  
 
+Look！This is windmill!  
+Don't you know what this is? Click on it!
 <!--more-->
 <section>  
 <style type="text/css">
