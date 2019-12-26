@@ -1,10 +1,10 @@
 ---
-title: "原来404错误页面可以这样设计"
+title: 原来404错误页面可以这样设计
 layout: page
 excerpt_separator: "<!--more-->"
 categories:
   - 平面设计
-  tags:
+tags:
   - 平面设计
 ---
 
@@ -25,8 +25,8 @@ categories:
  
  那么我们如何pick到它呢？？？  
  实现代码如下：  
-```
 
+···
 <xmp>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -56,8 +56,8 @@ categories:
 </body>
 </html>
 </xmp>
+···
 
-```
 ###  设置方法 
 1. 虚拟空间设置方法    
 现在的idc提供商基本都提供404设置的功能，直接上传文件设置即可。
