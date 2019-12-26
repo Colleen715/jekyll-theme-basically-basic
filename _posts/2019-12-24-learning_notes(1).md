@@ -8,9 +8,9 @@ categories:
   - 学习笔记
 ---
 
-Canvas API（画布）是在HTML5中新增的标签用于在网页实时生成图像，并且可以操作图像内容，基本上它是一个可以用JavaScript操作的位图（bitmap）。 
-Canvas 对象表示一个HTML画布元素。它没有自己的行为，但是定义了一个 API 支持脚本化客户端绘图操作。
 Don't you know what this is? Click on it!
+Canvas API（画布）是在HTML5中新增的标签用于在网页实时生成图像，并且可以操作图像内容，基本上它是一个可以用JavaScript操作的位图（bitmap）。Canvas 对象表示一个HTML画布元素。它没有自己的行为，但是定义了一个 API 支持脚本化客户端绘图操作。
+ 
 <!--more-->
 ## Canvas动画原理是什么？
 快速切换的静态画面，其实就是不同的图片循环替换，造成视觉上图片在动，其中要运用控制函数使素材运动，最终生成网页图像。 
