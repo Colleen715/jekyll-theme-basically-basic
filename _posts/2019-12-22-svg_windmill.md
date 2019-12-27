@@ -4,8 +4,6 @@ layout: page
 excerpt_separator: "<!--more-->"
 categories: 
   - svg制作
-tags:
-  - svg
 ---  
 
 Look！This is windmill!  

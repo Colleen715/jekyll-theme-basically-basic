@@ -1,11 +1,9 @@
 ---
-title: 看到加载中动画是不是有点害怕？？？
+title: "看到加载中动画是不是有点害怕？？？"
 layout: page
 excerpt_separator: "<!--more-->"
 categories: 
   - svg制作
-tags:
-  - svg
 ---   
 
 Don't you know what this is? Click on it!

@@ -1,11 +1,9 @@
 ---
-title: 看！高级感的描边动画！
+title: "看！高级感的描边动画！"
 layout: page
 excerpt_separator: "<!--more-->"
 categories: 
   - svg制作
-tags:
-  - svg
 ---    
 
 Don't you know what this is? Click on it!
