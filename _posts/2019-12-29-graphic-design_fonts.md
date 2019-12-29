@@ -7,11 +7,9 @@ categories:
 ---   
 
 ## 网页安全字体（web safe fonts）
+它是基本上能保证所有用户看见的是类似的字体，也就是说他们的操作系统里以很大概率自带了这些字体。传统的安全字体大概多数人都已经看厌了，比如 Times New Roman、Arial之类的。现在时兴使用网络字体，比如Google的那些字体。
 
 <!--more-->    
-
-### 网页安全字体（web safe fonts）
-它是基本上能保证所有用户看见的是类似的字体，也就是说他们的操作系统里以很大概率自带了这些字体。传统的安全字体大概多数人都已经看厌了，比如 Times New Roman、Arial之类的。现在时兴使用网络字体，比如Google的那些字体。
 
 ### 为什么我们仍然需要网页安全字体集？  
 1. 不完善的字体(Incomplete Fonts)    
@@ -30,4 +28,4 @@ categories:
 
 3. 网页安全字体 = 便宜的, 简单地实现优雅的性能下降 (Web-safe Fonts = Cheap and Easy Graceful Degradation)  
 
-### [资料共享](https://www.webfx.com/blog/web-design/why-we-still-need-web-safe-fonts/)
+ ### [资料共享](https://www.webfx.com/blog/web-design/why-we-still-need-web-safe-fonts/)
