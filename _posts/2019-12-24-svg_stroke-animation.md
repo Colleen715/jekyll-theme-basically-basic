@@ -3,7 +3,7 @@ title: "看！高级感的描边动画！"
 layout: page
 excerpt_separator: "<!--more-->"
 categories: 
-  - svg制作
+  - SVG笔记
 ---    
 
 Don't you know what this is? Click on it!
