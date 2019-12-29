@@ -3,13 +3,14 @@ title: "看！是一个旋转的风车！"
 layout: page
 excerpt_separator: "<!--more-->"
 categories: 
-  - svg制作
+  - SVG笔记
 ---  
 
 Look！This is windmill!  
 Don't you know what this is? Click on it!
 
 <!--more-->
+
 <section>  
 <style type="text/css">
 #windmill{

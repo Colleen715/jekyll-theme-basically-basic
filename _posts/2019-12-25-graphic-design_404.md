@@ -13,20 +13,16 @@ categories:
 404页面是网站优化中必不可少的基础优化之一，随着网站运营时间的不断延长，网站上原来的网页内容可能会被删除，但是该网页的链接地址往往会以各种内链、外链形式存在，如果使用的是一些锚文本链接，这些文字内容可能会吸引到用户点击，而对应的页面却已经删除，此时如果没有设置404页面，那么用户获得的页面就是一个错误的页面，而搜索引擎 获得的路径则变成了死路。正因如此又将这类链接称之为死链。
 　　在网站优化的过程中，404页面是影响网站排名与避免流量流失的一项重要因素，那么，我们应该如何设置404页面呢？
 　　一般情况下，当用户输错了网站某个页面URL，一般会以下图的空间默认的形式显示你所访问的页面错误：
-　　
-　　
 
-<img src="https://gitee.com/chen_ke_715/jekyll-theme-basically-basic/blob/gh_pages/assets/images/404_normal.jpg" width="200px" height="200px" />
+![平常所见到的404页面]（\assets\images\404_normal.jpg）
    
    而经过自定义的是这样的：  
 
-<img src="https://gitee.com/chen_ke_715/jekyll-theme-basically-basic/blob/gh_pages/assets/images/404_unique.jpg" width="200px" height="200px" /> 
- 
+![自定义的404页面可以是这样的]（\assets\images\404_unique.jpg）
  那么我们如何pick到它呢？？？  
  实现代码如下：  
 
-···
-<xmp>
+```
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head> 
@@ -54,8 +50,7 @@ categories:
 </div>
 </body>
 </html>
-</xmp>
-···
+```
 
 ###  设置方法 
 1. 虚拟空间设置方法    
