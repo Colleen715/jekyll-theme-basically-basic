@@ -8,6 +8,7 @@ tags:
   - svg
 ---  
 
+    <!--more-->
 	<style>
 	svg {
 	    width: 150px;
