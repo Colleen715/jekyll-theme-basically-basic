@@ -13,6 +13,8 @@ Don't you know what this is? Click on it!
 
 <section>  
 <style type="text/css">
+body{ text-align:center} 
+.div{ margin:0 auto; width:400px; height:100px; border:1px solid #F00} 
 #windmill{
 	width:160px;
 	height:160px;	
