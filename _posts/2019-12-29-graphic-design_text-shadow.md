@@ -13,15 +13,17 @@ categories:
 ### 文字阴影
 - CSS3 text-shadow 属性  
 实例：  
-1. ![基本文字阴影]()
-```  
+1. 基本文字阴影
+  
 h1
 {
 text-shadow: 2px 2px #ff0000;
 }  
-```   
+   
 
-2. ![文字阴影模糊效果](\assets\images\text-shadow_mf.jpg)  
+2. 
+![文字阴影模糊效果](\assets\images\text-shadow_mf.jpg)  
+
 ```
 <!DOCTYPE html>
 <html>
@@ -36,7 +38,9 @@ h1 {text-shadow:2px 2px 8px #FF0000;}
 </html>
 ```
 
-3. ![白色文字上文字阴影](\assets\images\text-shadow_bzmf.jpg)  
+3. 
+![白色文字上文字阴影](\assets\images\text-shadow_bzmf.jpg)  
+
 ```
 <!DOCTYPE html>
 <html>
@@ -56,7 +60,9 @@ text-shadow:2px 2px 4px #000000;
 </html>
 ```  
 
-4. ![氖辉光文字阴影](\assets\images\text-shadow_nhg.jpg)  
+4. 
+![氖辉光文字阴影](\assets\images\text-shadow_nhg.jpg)  
+
 ```
 <!DOCTYPE html>
 <html>
