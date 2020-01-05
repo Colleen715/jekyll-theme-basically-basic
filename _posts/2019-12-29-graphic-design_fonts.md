@@ -17,7 +17,7 @@ categories:
 
 2. 网络问题(Netword Issues)   
 通过@font-face加载远程字体需要网络连接, 如果负责字体服务的网络不可用或者暂时的维护浏览器会使用他的默认字体，除非你在你的CSS字体集里添加了网页安全字体。例如：  
- 这个网页设计用的是 PT Sans 字体 
+这个网页设计用的是 PT Sans 字体 
 ![图示](\assets\images\Web-safe Fonts（1）.jpg)   
 
 
