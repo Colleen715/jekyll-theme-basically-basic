@@ -13,13 +13,15 @@ categories:
 ### 文字阴影
 - CSS3 text-shadow 属性  
 实例：  
-1. 基本文字阴影
-  
+1. 
+![文字阴影模糊效果](\assets\images\text-shadow_jb.jpg)  
+ 
+```  
 h1
 {
 text-shadow: 2px 2px #ff0000;
 }  
-   
+```   
 
 2. 
 ![文字阴影模糊效果](\assets\images\text-shadow_mf.jpg)  
