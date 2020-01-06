@@ -6,9 +6,6 @@ categories:
   - SVG笔记
 ---    
 
-Don't you know what this is? Click on it!
-Look！This is stroke animation!  
-
 <!--more-->
 <section>
 <style>

@@ -10,9 +10,9 @@ categories:
 
 <!--more-->
 ### 经常见到404，那到底什么是404页面呢？
-404页面是网站优化中必不可少的基础优化之一，随着网站运营时间的不断延长，网站上原来的网页内容可能会被删除，但是该网页的链接地址往往会以各种内链、外链形式存在，如果使用的是一些锚文本链接，这些文字内容可能会吸引到用户点击，而对应的页面却已经删除，此时如果没有设置404页面，那么用户获得的页面就是一个错误的页面，而搜索引擎 获得的路径则变成了死路。正因如此又将这类链接称之为死链。
-　　在网站优化的过程中，404页面是影响网站排名与避免流量流失的一项重要因素，那么，我们应该如何设置404页面呢？
-　　一般情况下，当用户输错了网站某个页面URL，一般会以下图的空间默认的形式显示你所访问的页面错误：
+&emsp;&emsp;404页面是网站优化中必不可少的基础优化之一，随着网站运营时间的不断延长，网站上原来的网页内容可能会被删除，但是该网页的链接地址往往会以各种内链、外链形式存在，如果使用的是一些锚文本链接，这些文字内容可能会吸引到用户点击，而对应的页面却已经删除，此时如果没有设置404页面，那么用户获得的页面就是一个错误的页面，而搜索引擎 获得的路径则变成了死路。正因如此又将这类链接称之为死链。  
+&emsp;&emsp;网站优化的过程中，404页面是影响网站排名与避免流量流失的一项重要因素，那么，我们应该如何设置404页面呢？  
+&emsp;&emsp;一般情况下，当用户输错了网站某个页面URL，一般会以下图的空间默认的形式显示你所访问的页面错误：
 
 ![平常所见到的404页面](\assets\images\404_normal.jpg)
    
@@ -59,8 +59,7 @@ categories:
 2. IIS下设置404页面  
 在IIS管理器中右键单击要管理的网站，打开“属性”中的“自定义错误信息”页，为“404”设定相应的错误信息页即可。不过，此处在“消息类型”中一定要选择“文件”或“默认值”，而不要选择“URL”，不然，将导致返回“200”状态码。
 3. Apache下设置404错误页面  
-在.htaccess文件中加入如下内容即可：ErrorDocument 404 /notfound.php。切记不要使用绝对URL，如果使用绝对URL返回的状态码是“302”+“200”。
-　　在设置好以后最好再检查一遍网页的http状态，可以用ranknow这个工具：检测你的站点404设置的是否正确。
+在.htaccess文件中加入如下内容即可：ErrorDocument 404 /notfound.php。切记不要使用绝对URL，如果使用绝对URL返回的状态码是“302”+“200”。在设置好以后最好再检查一遍网页的http状态，可以用ranknow这个工具：检测你的站点404设置的是否正确。
 
 ###  安利动态404页面  
 [是会动的猴子噢！](https://codepen.io/thejohnyagiz/pen/npDyq?__cf_chl_jschl_tk__=8b3a22438ac505bd5b6cb493b6a55ad792a93088-1577259573-0-AYhZJWr54GbS63sVkQG_NCE-f4NwvTNOM_YTmKWCfpsUZOJQ-PNCzbKi9yp1GMzghVxxe3dqEwmpfzDcelOZ1qEaA2njNqVrFtbmu-poqZDXwX_1EHy-UvBBj9n97Tnl2nydYClIGb5aYOXW8nvqbW6TF0jftoJxnVAUwzeRys2_MLYa-Etn7qD-D1BTIbTTSHijeS4bD9Cb0SpYRzaAJ0ZqJFBHtXpmcmC3XMStS4ttUQMxuZz3Ge3Gdbklr-BnJgp1KtfVxnXKocE6Zm8PXQL-fVrSl7GYGorNUGVh8DkoDaVAuMCjbKq4lu4YNCSDTBtbfFoKz_HAVYWhLPqelU_6uVOcFpuzGp0bHa3sC0ti)
