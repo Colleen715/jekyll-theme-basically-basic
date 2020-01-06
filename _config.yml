@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 lang: zh-US
 title: 陈珂的jekyll网站
-email:
+email: 1965463413@qq.com
 description: "陈珂的jekyll网站"
 baseurl: "/chen_ke_715" # the optional subpath of your site, e.g. "/blog"
 url: "https://Colleen715.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
