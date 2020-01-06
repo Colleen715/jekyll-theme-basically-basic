@@ -11,7 +11,6 @@ Don't you know what this is? Click on it!
 
 <!--more-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -115,12 +114,6 @@ div{
 </head>
 
 <body>
-<div id="windmill">
-	<div class="top ala"></div><div class="top topIn alaIn"></div>
-	<div class="right ala"></div><div class="right rightIn alaIn"></div>
-	<div class="bottom ala"></div><div class="bottom bottomIn alaIn"></div>
-	<div class="left ala"></div><div class="left leftIn alaIn"></div>
-</div>
 <div id="windmill">
 	<div class="top ala"></div><div class="top topIn alaIn"></div>
 	<div class="right ala"></div><div class="right rightIn alaIn"></div>
